@@ -20,7 +20,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyebili
 
 1. Git'i kullanarak projeyi klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/BlogWebSite2.git
+    git clone https://github.com/BRTCLK/BlogWebSite2.git
     ```
 
 2. Proje klasörüne gidin:
